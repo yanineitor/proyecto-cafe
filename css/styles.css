@@ -1,3 +1,14 @@
 body {
     background-color: beige;
 }
+
+footer {
+    background-color: black;
+    color: gold;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+}
